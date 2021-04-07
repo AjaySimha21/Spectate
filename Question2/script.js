@@ -116,5 +116,5 @@ const datecal = (inputData) => {
 
 // The Time can supplied to datecal function or current time is considered 
 // Provide the Date and Time in : "YYYY-MM-DD HH:MM:SS" 
-console.log(datecal("2021-12-15 2488:45:56"));
+console.log(datecal("2021-12-15 18:45:56"));
 //datecal();
